@@ -1,0 +1,33 @@
+{
+   "name": "Great Worm Cavern",
+   "code": "skt",
+   "id": "scenes/skt-scene-3.6",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": -37,
+         "y": -87
+      },
+      "width": 3202,
+      "height": 2200
+   },
+   "journals": [],
+   "grid": {
+      "value": 123,
+      "type": 1,
+      "distance": 50,
+      "units": "ft"
+   },
+   "backgroundColor": "#665e59",
+   "walls": [],
+   "lights": [],
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: The Savage Frontier"
+         ]
+      }
+   }
+}

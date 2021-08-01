@@ -1,0 +1,30 @@
+{
+   "name": "Old Tower",
+   "code": "skt",
+   "id": "scenes/skt-scene-3.14",
+   "type": "scene",
+   "entity": "Scene",
+   "img": {
+      "shift": {
+         "x": 0,
+         "y": 0
+      },
+      "width": 1000,
+      "height": 688
+   },
+   "journals": [],
+   "grid": {
+      "value": 50,
+      "type": 1,
+      "distance": 5,
+      "units": "ft"
+   },
+   "monsters": [],
+   "flags": {
+      "vtta": {
+         "folders": [
+            "04 Chapter 3: The Savage Frontier"
+         ]
+      }
+   }
+}
