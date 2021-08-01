@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Acquisitions Incorporated",
+    "code": "ai"
+  },
+  {
+    "name": "Baldur's Gate: Descent into Avernus",
+    "code": "bgdia"
+  },
+  {
+    "name": "Candlekeep Mysteries",
+    "code": "cm"
+  },
+  {
+    "name": "Curse of Strahd",
+    "code": "cos"
+  },
+  {
+    "name": "Divine Contention",
+    "code": "dc"
+  },
+  {
+    "name": "Rrakkma",
+    "code": "ddia-mord"
+  },
+  {
+    "name": "Dungeons & Dragons vs. Rick and Morty",
+    "code": "ddvram"
+  },
+  {
+    "name": "Dungeon Master's Guide",
+    "code": "dmg"
+  },
+  {
+    "name": "Dragon of Icespire Peak",
+    "code": "doip"
+  },
+  {
+    "name": "Explorer's Guide to Wildemount",
+    "code": "egtw"
+  },
+  {
+    "name": "Eberron: Rising from the Last War",
+    "code": "erftlw"
+  },
+  {
+    "name": "Guildmasters' Guide to Ravnica",
+    "code": "ggtr"
+  },
+  {
+    "name": "Ghosts of Saltmarsh",
+    "code": "gos"
+  },
+  {
+    "name": "Hunt for the Thessalhydra",
+    "code": "hftt"
+  },
+  {
+    "name": "Hoard of the Dragon Queen",
+    "code": "hotdq"
+  },
+  {
+    "name": "Icewind Dale: Rime of the Frostmaiden",
+    "code": "idrotf"
+  },
+  {
+    "name": "Infernal Machine Rebuild",
+    "code": "imr"
+  },
+  {
+    "name": "Lost Laboratory of Kwalish",
+    "code": "llok"
+  },
+  {
+    "name": "Lost Mine of Phandelver",
+    "code": "lmop"
+  },
+  {
+    "name": "Locathah Rising",
+    "code": "lr"
+  },
+  {
+    "name": "Mordenkainen's Fiendish Folio Volume 1",
+    "code": "mffv1"
+  },
+  {
+    "name": "Monster Manual",
+    "code": "mm"
+  },
+  {
+    "name": "Mythic Odysseys of Theros",
+    "code": "moot"
+  },
+  {
+    "name": "Mordenkainen’s Tome of Foes",
+    "code": "mtof"
+  },
+  {
+    "name": "One Grung Above",
+    "code": "oga"
+  },
+  {
+    "name": "Out of the Abyss",
+    "code": "oota"
+  },
+  {
+    "name": "Player's Handbook",
+    "code": "phb"
+  },
+  {
+    "name": "Princes of the Apocalypse",
+    "code": "pota"
+  },
+  {
+    "name": "Rise of Tiamat",
+    "code": "rot"
+  },
+  {
+    "name": "Sword Coast Adventurer's Guide",
+    "code": "scag"
+  },
+  {
+    "name": "Sleeping Dragon’s Wake",
+    "code": "sdw"
+  },
+  {
+    "name": "Storm King's Thunder",
+    "code": "skt"
+  },
+  {
+    "name": "Storm Lord’s Wrath",
+    "code": "slw"
+  },
+  {
+    "name": "Tasha’s Cauldron of Everything",
+    "code": "tcoe"
+  },
+  {
+    "name": "Tales from the Yawning Portal",
+    "code": "tftyp"
+  },
+  {
+    "name": "Tomb of Annihilation",
+    "code": "toa"
+  },
+  {
+    "name": "The Tortle Package",
+    "code": "ttp"
+  },
+  {
+    "name": "Volo's Guide to Monsters",
+    "code": "vgtm"
+  },
+  {
+    "name": "Van Richten’s Guide to Ravenloft",
+    "code": "vrgtr"
+  },
+  {
+    "name": "Frozen Sick",
+    "code": "wa"
+  },
+  {
+    "name": "Waterdeep: Dragon Heist",
+    "code": "wdh"
+  },
+  {
+    "name": "Waterdeep: Dungeon of the Mad Mage",
+    "code": "wdotmm"
+  },
+  {
+    "name": "Wayfinder's Guide to Eberron",
+    "code": "wgte"
+  },
+  {
+    "name": "Xanathar's Guide to Everything",
+    "code": "xgte"
+  }
+]
