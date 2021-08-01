@@ -5,29 +5,70 @@
    "type": "scene",
    "entity": "Scene",
    "img": {
+      "height": 3617,
+      "width": 2652,
       "shift": {
          "x": -18,
          "y": -10
-      },
-      "width": 2652,
-      "height": 3617
+      }
    },
-   "journals": [],
    "grid": {
       "value": 143,
       "type": 5,
       "distance": 5,
       "units": "mi"
    },
-   "backgroundColor": "#5f5743",
-   "walls": [],
-   "lights": [],
-   "monsters": [],
    "flags": {
       "vtta": {
          "folders": [
             "00 Introduction"
          ]
       }
-   }
+   },
+   "journals": [],
+   "monsters": [],
+   "walls": [
+      {
+         "_id": "w3uwgymRxuGQyrpI",
+         "c": [
+            1466,
+            1462,
+            1555,
+            1671
+         ],
+         "move": 1,
+         "sense": 1,
+         "sound": 1,
+         "dir": 0,
+         "door": 0,
+         "ds": 0,
+         "flags": {}
+      }
+   ],
+   "lights": [
+      {
+         "_id": "aNqh9kqQxbmxJu95",
+         "t": "l",
+         "x": 1609.25,
+         "y": 1609.9412256352712,
+         "rotation": 0,
+         "dim": 7.81,
+         "bright": 3.9,
+         "angle": 0,
+         "tintColor": "#da0101",
+         "tintAlpha": 0.25,
+         "lightAnimation": {
+            "speed": 5,
+            "intensity": 5,
+            "type": "wave"
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false,
+         "flags": {}
+      }
+   ]
 }
