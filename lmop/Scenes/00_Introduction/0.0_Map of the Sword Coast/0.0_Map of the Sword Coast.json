@@ -60,8 +60,8 @@
          "hidden": false
       },
       {
-         "x": 894,
-         "y": 1486,
+         "x": 1001.75,
+         "y": 1795.7036747470333,
          "dim": 8.601201249081173,
          "bright": 4.300600624540587,
          "angle": 0,
@@ -96,10 +96,28 @@
          "hidden": false
       },
       {
-         "x": 1002,
-         "y": 1176,
+         "x": 1751.75,
+         "y": 1981.4661238587955,
          "dim": 13.265765603435009,
          "bright": 6.632882801717504,
+         "angle": 0,
+         "tintAlpha": 0.25,
+         "lightAnimation": {
+            "speed": 5,
+            "intensity": 5
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
+      },
+      {
+         "x": 858,
+         "y": 1176,
+         "dim": 11.12159762453348,
+         "bright": 5.56079881226674,
          "angle": 0,
          "tintAlpha": 0.25,
          "lightAnimation": {
