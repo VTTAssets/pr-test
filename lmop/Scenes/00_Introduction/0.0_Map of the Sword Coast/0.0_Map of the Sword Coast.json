@@ -94,6 +94,24 @@
             "max": 1
          },
          "hidden": false
+      },
+      {
+         "x": 1002,
+         "y": 1176,
+         "dim": 13.265765603435009,
+         "bright": 6.632882801717504,
+         "angle": 0,
+         "tintAlpha": 0.25,
+         "lightAnimation": {
+            "speed": 5,
+            "intensity": 5
+         },
+         "darknessThreshold": 0,
+         "darkness": {
+            "min": 0,
+            "max": 1
+         },
+         "hidden": false
       }
    ]
 }
